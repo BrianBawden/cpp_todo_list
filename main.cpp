@@ -119,7 +119,7 @@ void getTaskInfo(){
     count++;
     
     saveTask();
-//    std::cout << "\ntask Id: " << newTasks.taskId << std::endl << "name: " << newTasks.taskName << std::endl << "date: " << newTasks.dueDate << std::endl << "priority: " << newTasks.priorityLevel << std::endl << "required time: " << newTasks.priorityLevel << std::endl << "notes: " << newTasks.taskNote << std::endl << std::endl ;
+
 };
 
 void viewTasks(){
