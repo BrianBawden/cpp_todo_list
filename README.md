@@ -12,15 +12,18 @@ I wanted to practice C++ because I know it is a very widely used language and a 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the Xcode IDE to write this program
 
-{Describe the programming language that you used and any libraries.}
+The program language: C++
+Libraries: iostream, string, fstream, vector
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [How to Use Structures in C++](https://www.programiz.com/cpp-programming/structure#:~:text=The%20struct%20keyword%20defines%20a,int%20age%3B%20float%20salary%3B%20%7D%3B)
+* [C++ Tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=12943s)
+* [How to Erase a Specific Vector](https://linuxhint.com/remove-specific-element-vector-cpp/)
+* [How to Create a Vector](https://linuxhint.com/create-vector-structs-cpp/)
+* [Structures in C++](https://www.programiz.com/cpp-programming/structure#:~:text=The%20struct%20keyword%20defines%20a,int%20age%3B%20float%20salary%3B%20%7D%3B)
 
 # Future Work
 
