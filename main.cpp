@@ -28,7 +28,7 @@
 #include <string>
 #include <fstream>
 #include <vector>
-//using namespace std;
+
 
 struct Task
 {
@@ -66,7 +66,7 @@ int main() {
         
         switch (decision){
             case '1':
-                std::cout << "Add a new task: \n";
+                std::cout << "Add a new task: ";
                 getTaskInfo();
                 break;
             case '2':
@@ -101,7 +101,7 @@ void saveTask() {
 
 void getTaskInfo(){
     
-    std::cin.ignore();
+
     std::cout << "Enter task id: ";
     std::cin >> newTasks.taskId;
     std::cin.ignore();
